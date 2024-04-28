@@ -1,0 +1,4 @@
+com\hms\PatientSystem\PatientSystemApplication.class
+com\hms\PatientSystem\controller\PatientController.class
+com\hms\PatientSystem\model\Patient.class
+com\hms\PatientSystem\repository\PatientRepository.class
